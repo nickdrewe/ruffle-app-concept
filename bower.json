@@ -1,0 +1,15 @@
+{
+  "name": "ruffle-app",
+  "version": "0.0.0",
+  "authors": [
+    "Nick Drewe <nick.drewe@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
